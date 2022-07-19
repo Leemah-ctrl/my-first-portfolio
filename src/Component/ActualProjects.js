@@ -14,12 +14,12 @@ const ActualProjects = () => {
 <p>HTML</p>
 <p>CSS</p>
 <p>Bootstrap</p>
-     <Link to ="https://app.netlify.com/sites/famous-daifuku-e0e7d1" className = "btn" >VIEW</Link>
+     <Link to ="https://famous-daifuku-e0e7d1.netlify.app/" className = "btn" >VIEW</Link>
 </div>
 
 <div className="card">
 <h3>Project 2</h3>
-
+<Link to ="https://fluffy-rugelach-d06c90.netlify.app/" className = "btn" >VIEW</Link>
 <p className="project-name">Blackjack</p>
 <p>HTML</p>
 <p>CSS</p>
@@ -34,7 +34,7 @@ const ActualProjects = () => {
 <p>HTML</p>
 <p>CSS</p>
 <p>JavaScript</p>
-      <Link to =" https://app.netlify.com/sites/symphonious-bavarois-b5b7a0 "  className = "btn" >VIEW</Link>
+      <Link to ="https://symphonious-bavarois-b5b7a0.netlify.app/ "  className = "btn" >VIEW</Link>
 
 </div>
 
