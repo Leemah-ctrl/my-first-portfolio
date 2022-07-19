@@ -25,7 +25,7 @@ window.addEventListener("scroll",changeColor);
 
   return (
     <div className={color? "header hearder-bg" : "header"}>
-            <Link to ="/"> <h1>My Portfolio</h1></Link>
+            <Link to ="#"> <h1>My Portfolio</h1></Link>
           <ul className= {click? "me-auto active" : "me-auto" }>
             <li>
               <Link to="/Home" >HOME</Link>
