@@ -17,7 +17,7 @@ const ReachMe = () => {
         
          <div> <a href="https://www.linkedin.com/in/halimah-oreoluwa-oloko-42ab1b148" className="btn"> <FaLinkedin/></a></div>
 <div> <a href="tel: +2347049387897" className="btn"> <BsFillTelephonePlusFill/></a></div>
-<div><a href="https://twitter.com/leemah____/status/1374519367971401730?s=21&t=-sFstE9KtZovU_Xf_Mlvxw" className="btn-light"> <FaTwitter/></a></div>
+<div><a href= "https://www.linkedin.com/in/halimah-oreoluwa-oloko-42ab1b148"  className="btn-light"> <FaTwitter/></a></div>
           </div>
     </div>
     </div>
