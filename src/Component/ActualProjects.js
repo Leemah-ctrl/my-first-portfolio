@@ -1,7 +1,7 @@
 import "./ActualProject.css"
 
 import React from 'react'
-import { NavLink } from "react-router-dom"
+import { Link } from "react-router-dom"
 
 const ActualProjects = () => {
   return (
@@ -14,7 +14,7 @@ const ActualProjects = () => {
 <p>HTML</p>
 <p>CSS</p>
 <p>Bootstrap</p>
-<NavLink to = "https://app.netlify.com/sites/famous-daifuku-e0e7d1" className = "btn">VIEW</NavLink>
+     <Link to ="https://app.netlify.com/sites/famous-daifuku-e0e7d1" className = "btn" >VIEW</Link>
 </div>
 
 <div className="card">
@@ -24,7 +24,7 @@ const ActualProjects = () => {
 <p>HTML</p>
 <p>CSS</p>
 <p>JavaScript</p>
-<NavLink to = "https://app.netlify.com/sites/fluffy-rugelach-d06c90" className = "btn">VIEW</NavLink>
+   
 </div>
 
 <div className="card">
@@ -34,7 +34,8 @@ const ActualProjects = () => {
 <p>HTML</p>
 <p>CSS</p>
 <p>JavaScript</p>
-<NavLink to = " https://app.netlify.com/sites/symphonious-bavarois-b5b7a0 " className = "btn">VIEW</NavLink>
+      <Link to =" https://app.netlify.com/sites/symphonious-bavarois-b5b7a0 "  className = "btn" >VIEW</Link>
+
 </div>
 
 </div>
