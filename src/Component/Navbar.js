@@ -28,7 +28,7 @@ window.addEventListener("scroll",changeColor);
             <Link to ="./"> <h1>My Portfolio</h1></Link>
           <ul className= {click? "me-auto active" : "me-auto" }>
             <li>
-              <p>HOME</p>
+            <Link to="/Home" >HOME</Link>
             </li>
 
             <li>
